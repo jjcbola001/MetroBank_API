@@ -1,0 +1,46 @@
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.deps.json
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\source\repos\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.deps.json
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.runtimeconfig.json
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.runtimeconfig.dev.json
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.pdb
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.CopyComplete
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.genruntimeconfig.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.deps.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.runtimeconfig.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.runtimeconfig.dev.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.csproj.CopyComplete
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.DataAccessLibrary\obj\Debug\netcoreapp3.1\Metrobank.DataAccessLibrary.genruntimeconfig.cache

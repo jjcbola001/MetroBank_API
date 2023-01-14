@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Metrobank.ManageDependency.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj",
+        "projectName": "Metrobank.DataAccessLibrary",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Metrobank.ManageDependency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Metrobank.ManageDependency.csproj",
+        "projectName": "Metrobank.ManageDependency",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Metrobank.ManageDependency.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Metrobank.Repository.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Metrobank.Repository.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj",
+        "projectName": "Metrobank.Interface",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj",
+        "projectName": "Metrobank.Model",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Metrobank.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Metrobank.Repository.csproj",
+        "projectName": "Metrobank.Repository",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Metrobank.Repository.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
+        "projectName": "Metrobank.Services",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj",
+        "projectName": "Metrobank.SharedUtilities",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Metrobank.DataAccessLibrary\Metrobank.DataAccessLibrary.csproj" />
+    <ProjectReference Include="..\Metrobank.Model\Metrobank.Model.csproj" />
+    <ProjectReference Include="..\Metrobank.Repository\Metrobank.Repository.csproj" />
+    <ProjectReference Include="..\Metrobank.Services\Metrobank.Services.csproj" />
+  </ItemGroup>
+
+</Project>
