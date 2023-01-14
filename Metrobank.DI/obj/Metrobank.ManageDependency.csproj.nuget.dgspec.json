@@ -8,10 +8,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj",
-        "projectName": "Metrobank.SharedUtilities",
+        "projectName": "Metrobank.DataAccessLibrary",
         "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\obj\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
                 "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj"
               }
             }
           }
@@ -183,10 +186,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj",
-        "projectName": "Metrobank.SharedUtilities",
+        "projectName": "Metrobank.Interface",
         "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj",
         "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\obj\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,8 +206,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
-                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj"
               }
             }
           }
@@ -242,10 +245,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj",
-        "projectName": "Metrobank.SharedUtilities",
+        "projectName": "Metrobank.Model",
         "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj",
         "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\obj\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -261,11 +264,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
-                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -326,6 +325,12 @@
               },
               "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj": {
                 "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj"
               }
             }
           }
@@ -363,8 +368,76 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
-        "projectName": "Metrobank.SharedUtilities",
+        "projectName": "Metrobank.Services",
         "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
+        "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Metrobank.Interface.csproj"
+              },
+              "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj": {
+                "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Metrobank.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj",
+        "projectName": "Metrobank.SharedUtilities",
+        "projectPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj",
         "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\obj\\",
         "projectStyle": "PackageReference",
@@ -399,6 +472,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.2, )"

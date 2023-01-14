@@ -18,3 +18,13 @@ C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\D
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.csproj.CoreCompileInputs.cache
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.dll
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\netcoreapp3.1\Metrobank.Model.deps.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\netcoreapp3.1\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\netcoreapp3.1\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.csproj.AssemblyReference.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.AssemblyInfo.cs
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\netcoreapp3.1\Metrobank.Model.pdb

@@ -7,6 +7,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Metrobank.DataAccessLibrary\Metrobank.DataAccessLibrary.csproj" />
     <ProjectReference Include="..\Metrobank.Interface\Metrobank.Interface.csproj" />
+    <ProjectReference Include="..\Metrobank.Model\Metrobank.Model.csproj" />
+    <ProjectReference Include="..\Metrobank.SharedUtilities\Metrobank.SharedUtilities.csproj" />
   </ItemGroup>
 
 </Project>
