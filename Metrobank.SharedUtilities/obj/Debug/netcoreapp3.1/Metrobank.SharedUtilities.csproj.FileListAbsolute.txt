@@ -11,16 +11,3 @@ C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtili
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.csproj.CopyComplete
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.dll
 C:\Users\Julius\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.pdb
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.deps.json
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.dll
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\netcoreapp3.1\Metrobank.SharedUtilities.pdb
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\netcoreapp3.1\Metrobank.Model.dll
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\netcoreapp3.1\Metrobank.Model.pdb
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.csproj.AssemblyReference.cache
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.AssemblyInfoInputs.cache
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.AssemblyInfo.cs
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.csproj.CoreCompileInputs.cache
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.csproj.CopyComplete
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.dll
-C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\netcoreapp3.1\Metrobank.SharedUtilities.pdb
