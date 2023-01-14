@@ -25,7 +25,6 @@ namespace Metrobank.Repository.Repository
         private readonly string LoggerFilePath;
         private readonly string OutputFilePath;
         private string outputString;
-        private ActionModel _actionModel;
         private AppMain _appMain;
     
         public MetrobankRepositry(MetrobankDataAccess db,
@@ -61,7 +60,7 @@ namespace Metrobank.Repository.Repository
         }
         public async Task<int> AddInputInformation(ActionInputRequestModel addInputRequest)
         {
-
+         ActionModel _actionModel;
             try
             {
                 _actionModel = new ActionModel(addInputRequest);
