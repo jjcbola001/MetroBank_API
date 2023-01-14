@@ -11,7 +11,6 @@ namespace Metrobank.SharedUtilities.Shared
     public class LoggerService<T> : ILoggerService<T>
     {
         private readonly ILogger<T> _logger;
-        private string fileName;
         public LoggerService(ILogger<T> logger)
         {
             _logger = logger;
@@ -19,7 +18,7 @@ namespace Metrobank.SharedUtilities.Shared
 
         public void ErrorLogger(string entity, string fileLocation, string Error)
         {
-
+            string fileName;
             _logger.LogError("Method Name: {EntityName} | Error Message: {Error}", entity, Error);
 
             if (String.IsNullOrWhiteSpace(fileLocation))
@@ -27,8 +26,9 @@ namespace Metrobank.SharedUtilities.Shared
 
             if (!Directory.Exists(fileLocation))
                 Directory.CreateDirectory(fileLocation);
+            fileName = $"{DateTime.Now:yyyyddMM}.txt";
 
-            fileLocation += fileName = $"{DateTime.Now:yyyyddMM}.txt";
+            fileLocation += fileName;
 
             using StreamWriter sw = File.AppendText(fileLocation);
             sw.WriteLine($"[{DateTime.Now}]");
