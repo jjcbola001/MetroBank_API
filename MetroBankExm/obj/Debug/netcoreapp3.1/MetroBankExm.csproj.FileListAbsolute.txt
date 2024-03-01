@@ -248,6 +248,11 @@ C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\MetroBankExm.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\MetroBankExm.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\MetroBankExm.StaticWebAssets.Manifest.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\MetroBankExm.StaticWebAssets.Pack.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MetroBankExm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MetroBankExm.props
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MetroBankExm.props
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MetroBankExm.props
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\MetroBankExm.RazorTargetAssemblyInfo.cache
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\MetroBankExm.csproj.CopyComplete
 C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\MetroBankExm\obj\Debug\netcoreapp3.1\MetroBankExm.dll

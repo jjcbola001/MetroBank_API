@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B2ECC-ECB6-4AB3-B574-551204E9FB12}|Metrobank.Services\\Metrobank.Services.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.services\\services\\metrobankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B2ECC-ECB6-4AB3-B574-551204E9FB12}|Metrobank.Services\\Metrobank.Services.csproj|solutionrelative:metrobank.services\\services\\metrobankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobankexm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|solutionrelative:metrobankexm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobankexm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|solutionrelative:metrobankexm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobankexm\\controllers\\metrobankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|solutionrelative:metrobankexm\\controllers\\metrobankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.sharedutilities\\shared\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|solutionrelative:metrobank.sharedutilities\\shared\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.sharedutilities\\shared\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|solutionrelative:metrobank.sharedutilities\\shared\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB8C19-FA52-473A-A098-C5703A9DD685}|Metrobank.Repository\\Metrobank.Repository.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.repository\\repository\\metrobankrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB8C19-FA52-473A-A098-C5703A9DD685}|Metrobank.Repository\\Metrobank.Repository.csproj|solutionrelative:metrobank.repository\\repository\\metrobankrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.sharedutilities\\shared\\configurationutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3174A66-603F-4B82-AC71-B0A97CE30E31}|Metrobank.SharedUtilities\\Metrobank.SharedUtilities.csproj|solutionrelative:metrobank.sharedutilities\\shared\\configurationutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B2ECC-ECB6-4AB3-B574-551204E9FB12}|Metrobank.Services\\Metrobank.Services.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.services\\metrobank.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B6B2ECC-ECB6-4AB3-B574-551204E9FB12}|Metrobank.Services\\Metrobank.Services.csproj|solutionrelative:metrobank.services\\metrobank.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\sharedmodel\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\sharedmodel\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\sharedmodel\\logresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\sharedmodel\\logresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\sharedmodel\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\sharedmodel\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\sharedmodel\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\sharedmodel\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\sharedmodel\\actionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\sharedmodel\\actionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\responsemodel\\inputresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\responsemodel\\inputresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\requestmodel\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\requestmodel\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\requestmodel\\actioninputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\requestmodel\\actioninputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.model\\models\\appmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF4055-1993-4330-8B29-2261A6E96591}|Metrobank.Model\\Metrobank.Model.csproj|solutionrelative:metrobank.model\\models\\appmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B2513F-E3D2-4382-B471-9F4B2D9136B0}|Metrobank.DI\\Metrobank.ManageDependency.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.di\\dependecy\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B2513F-E3D2-4382-B471-9F4B2D9136B0}|Metrobank.DI\\Metrobank.ManageDependency.csproj|solutionrelative:metrobank.di\\dependecy\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A580521-40E0-416E-9624-AD4AD0A31390}|Metrobank.Interface\\Metrobank.Interface.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.interface\\interfaces\\imetrobankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A580521-40E0-416E-9624-AD4AD0A31390}|Metrobank.Interface\\Metrobank.Interface.csproj|solutionrelative:metrobank.interface\\interfaces\\imetrobankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A580521-40E0-416E-9624-AD4AD0A31390}|Metrobank.Interface\\Metrobank.Interface.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.interface\\interfaces\\imetrobankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A580521-40E0-416E-9624-AD4AD0A31390}|Metrobank.Interface\\Metrobank.Interface.csproj|solutionrelative:metrobank.interface\\interfaces\\imetrobankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E2B2CB-D194-423B-9A32-6CB0141A6D42}|Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.dataaccesslibrary\\interfaces\\imetrobankdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E2B2CB-D194-423B-9A32-6CB0141A6D42}|Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj|solutionrelative:metrobank.dataaccesslibrary\\interfaces\\imetrobankdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E2B2CB-D194-423B-9A32-6CB0141A6D42}|Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobank.dataaccesslibrary\\dataaccess\\metrobankdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E2B2CB-D194-423B-9A32-6CB0141A6D42}|Metrobank.DataAccessLibrary\\Metrobank.DataAccessLibrary.csproj|solutionrelative:metrobank.dataaccesslibrary\\dataaccess\\metrobankdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|c:\\users\\julius\\desktop\\desktop\\metrobank examination\\metrobankexm\\metrobankexm\\metrobankexm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{04EB0268-C15D-4CF6-A2F6-0E96CB2BD0BF}|MetroBankExm\\MetroBankExm.csproj|solutionrelative:metrobankexm\\metrobankexm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Program.cs",
+              "RelativeDocumentMoniker": "MetroBankExm\\Program.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Program.cs",
+              "RelativeToolTip": "MetroBankExm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:36:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetroBankController.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Controllers\\MetroBankController.cs",
+              "RelativeDocumentMoniker": "MetroBankExm\\Controllers\\MetroBankController.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Controllers\\MetroBankController.cs",
+              "RelativeToolTip": "MetroBankExm\\Controllers\\MetroBankController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:24:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Metrobank.SharedUtilities\\Shared\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\LoggerService.cs",
+              "RelativeToolTip": "Metrobank.SharedUtilities\\Shared\\LoggerService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:23:37.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Metrobank.SharedUtilities\\Shared\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\ILoggerService.cs",
+              "RelativeToolTip": "Metrobank.SharedUtilities\\Shared\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:23:02.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\ConfigurationUtility.cs",
+              "RelativeDocumentMoniker": "Metrobank.SharedUtilities\\Shared\\ConfigurationUtility.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.SharedUtilities\\Shared\\ConfigurationUtility.cs",
+              "RelativeToolTip": "Metrobank.SharedUtilities\\Shared\\ConfigurationUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:22:56.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetrobankServices.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Services\\MetrobankServices.cs",
+              "RelativeDocumentMoniker": "Metrobank.Services\\Services\\MetrobankServices.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Services\\MetrobankServices.cs",
+              "RelativeToolTip": "Metrobank.Services\\Services\\MetrobankServices.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:22:30.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Metrobank.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
+              "RelativeDocumentMoniker": "Metrobank.Services\\Metrobank.Services.csproj",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Services\\Metrobank.Services.csproj",
+              "RelativeToolTip": "Metrobank.Services\\Metrobank.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T12:22:28.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\SharedModel\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ResponseModel.cs",
+              "RelativeToolTip": "Metrobank.Model\\SharedModel\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:54.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogResult.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\LogResult.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\SharedModel\\LogResult.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\LogResult.cs",
+              "RelativeToolTip": "Metrobank.Model\\SharedModel\\LogResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:51.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilePath.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\FilePath.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\SharedModel\\FilePath.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\FilePath.cs",
+              "RelativeToolTip": "Metrobank.Model\\SharedModel\\FilePath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Startup.cs",
+              "RelativeDocumentMoniker": "MetroBankExm\\Startup.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\Startup.cs",
+              "RelativeToolTip": "MetroBankExm\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:20:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\SharedModel\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ConnectionStrings.cs",
+              "RelativeToolTip": "Metrobank.Model\\SharedModel\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ActionModel.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\SharedModel\\ActionModel.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\SharedModel\\ActionModel.cs",
+              "RelativeToolTip": "Metrobank.Model\\SharedModel\\ActionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\ResponseModel\\InputResponseModel.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\ResponseModel\\InputResponseModel.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\ResponseModel\\InputResponseModel.cs",
+              "RelativeToolTip": "Metrobank.Model\\ResponseModel\\InputResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:38.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\RequestModel\\InputRequestModel.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\RequestModel\\InputRequestModel.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\RequestModel\\InputRequestModel.cs",
+              "RelativeToolTip": "Metrobank.Model\\RequestModel\\InputRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:36.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetrobankRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Repository\\MetrobankRepositry.cs",
+              "RelativeDocumentMoniker": "Metrobank.Repository\\Repository\\MetrobankRepositry.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Repository\\Repository\\MetrobankRepositry.cs",
+              "RelativeToolTip": "Metrobank.Repository\\Repository\\MetrobankRepositry.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T17:18:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActionInputRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\RequestModel\\ActionInputRequestModel.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\RequestModel\\ActionInputRequestModel.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\RequestModel\\ActionInputRequestModel.cs",
+              "RelativeToolTip": "Metrobank.Model\\RequestModel\\ActionInputRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppMain.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Models\\AppMain.cs",
+              "RelativeDocumentMoniker": "Metrobank.Model\\Models\\AppMain.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Model\\Models\\AppMain.cs",
+              "RelativeToolTip": "Metrobank.Model\\Models\\AppMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMetrobankServices.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Interfaces\\IMetrobankServices.cs",
+              "RelativeDocumentMoniker": "Metrobank.Interface\\Interfaces\\IMetrobankServices.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Interfaces\\IMetrobankServices.cs",
+              "RelativeToolTip": "Metrobank.Interface\\Interfaces\\IMetrobankServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMetrobankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Interfaces\\IMetrobankRepository.cs",
+              "RelativeDocumentMoniker": "Metrobank.Interface\\Interfaces\\IMetrobankRepository.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.Interface\\Interfaces\\IMetrobankRepository.cs",
+              "RelativeToolTip": "Metrobank.Interface\\Interfaces\\IMetrobankRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:14.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMetrobankDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Interfaces\\IMetrobankDataAccess.cs",
+              "RelativeDocumentMoniker": "Metrobank.DataAccessLibrary\\Interfaces\\IMetrobankDataAccess.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\Interfaces\\IMetrobankDataAccess.cs",
+              "RelativeToolTip": "Metrobank.DataAccessLibrary\\Interfaces\\IMetrobankDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:10.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MetrobankDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\DataAccess\\MetrobankDataAccess.cs",
+              "RelativeDocumentMoniker": "Metrobank.DataAccessLibrary\\DataAccess\\MetrobankDataAccess.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DataAccessLibrary\\DataAccess\\MetrobankDataAccess.cs",
+              "RelativeToolTip": "Metrobank.DataAccessLibrary\\DataAccess\\MetrobankDataAccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:06.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DIContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Dependecy\\DIContainer.cs",
+              "RelativeDocumentMoniker": "Metrobank.DI\\Dependecy\\DIContainer.cs",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\Metrobank.DI\\Dependecy\\DIContainer.cs",
+              "RelativeToolTip": "Metrobank.DI\\Dependecy\\DIContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:12:27.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MetroBankExm",
+              "DocumentMoniker": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\MetroBankExm.csproj",
+              "RelativeDocumentMoniker": "MetroBankExm\\MetroBankExm.csproj",
+              "ToolTip": "C:\\Users\\Julius\\Desktop\\Desktop\\Metrobank Examination\\MetroBankExm\\MetroBankExm\\MetroBankExm.csproj",
+              "RelativeToolTip": "MetroBankExm\\MetroBankExm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-09-12T12:34:36.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

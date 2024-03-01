@@ -11,12 +11,12 @@ namespace Metrobank.Model.SharedModel
         public string Token { get; set; }
         public bool ReturnStatus { get; set; }
         public string ReturnMessage { get; set; }
-        public List<string> Errors;
-        public int TotalPages;
-        public int TotalRows;
-        public int PageSize;
-        public Boolean IsAuthenicated;
-        public T Entity;
+        public List<string> Errors { get; set; }
+        public int TotalPages { get; set; }
+        public int TotalRows { get; set; }
+        public int PageSize { get; set; }
+        public Boolean IsAuthenicated { get; set; }
+        public T Entity { get; set; }
 
         public ResponseModel()
         {

@@ -1,0 +1,16 @@
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\net6.0\Metrobank.SharedUtilities.deps.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\net6.0\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\net6.0\Metrobank.SharedUtilities.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\net6.0\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\bin\Debug\net6.0\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.csproj.AssemblyReference.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.AssemblyInfo.cs
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.csproj.CopyComplete
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\refint\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\ref\Metrobank.SharedUtilities.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.SharedUtilities\obj\Debug\net6.0\Metrobank.SharedUtilities.sourcelink.json

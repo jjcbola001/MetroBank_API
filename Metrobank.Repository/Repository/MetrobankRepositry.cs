@@ -47,7 +47,9 @@ namespace Metrobank.Repository.Repository
         {
             try
             {
-                var res = await _dbAccess.AppMains
+                var res = await _dbAccess
+                  .AppMains
+                  .AsNoTracking()
                   .ToListAsync();
 
                 return res;

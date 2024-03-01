@@ -1,0 +1,12 @@
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\net6.0\Metrobank.Model.deps.json
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\net6.0\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\bin\Debug\net6.0\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.AssemblyInfo.cs
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\refint\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.pdb
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\ref\Metrobank.Model.dll
+C:\Users\Julius\Desktop\Desktop\Metrobank Examination\MetroBankExm\Metrobank.Model\obj\Debug\net6.0\Metrobank.Model.sourcelink.json
